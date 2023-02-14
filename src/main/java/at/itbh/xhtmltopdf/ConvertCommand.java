@@ -1,4 +1,4 @@
-package org.acme;
+package at.itbh.xhtmltopdf;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
